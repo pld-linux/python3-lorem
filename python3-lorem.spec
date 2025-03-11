@@ -2,7 +2,7 @@
 Summary:	Generator for random text that looks like Latin
 Name:		python3-%{module}
 Version:	0.1.1
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/Languages/Python
 #Source0Download: https://pypi.org/simple/lorem/
